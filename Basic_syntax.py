@@ -1,0 +1,5 @@
+print("Hello, world!")
+print('Hello world!')
+print(420)
+print('420')
+print("420")
