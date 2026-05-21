@@ -1,0 +1,13 @@
+# String Type Data
+
+name = "Sami"
+print(name)
+
+name1 = 'sami'
+print(name1)
+
+name_1 = "Samiul"
+name_2 = 'islam'
+print(name_1 + name_2)
+print("My name is " + name_2)
+print("My name is " + name_1 + " " + name_2)
