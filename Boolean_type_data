@@ -1,0 +1,20 @@
+#Boolean type data
+
+Bool = True
+print(Bool)
+print(type(Bool))
+
+Sami = False
+print(Sami)
+print(type(Sami))
+
+x = 8
+y = 10
+print(x > y)
+print(x < y)
+print(x == y)
+print(type(x > y))
+print(x >= y)
+print(x <= y)
+print(x != y)
+print(x != 8)
